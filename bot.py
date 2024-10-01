@@ -478,7 +478,7 @@ async def main():
     await bot.add_cog(RegHelp(bot))
     await bot.add_cog(ListTracker(bot))
     await bot.add_cog(NikBas(bot))
-    await bot.start("MTI3NTc1ODUwNzQ5MjI0NTU0OA.G2s0zZ.BZ9IwrZgEeEvWOyX5GeGWBQG5hHO0U7BOUuu3k")
+    await bot.start("TOKEN")
 
 asyncio.run(main())
 
