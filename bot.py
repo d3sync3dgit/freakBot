@@ -449,9 +449,9 @@ class NikBas(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
-    @app_commands.command(name="NikolosBashivilli")
+    @app_commands.command(name="REMOVED FOR PRIVACY")
     async def nikolos_bashivilli(self, interaction: discord.Interaction):
-        await interaction.response.send_message("Here, Colonel Nikolos Bashivilli, is ambushed by the Ukrainian Forces in Kursk, 2024. https://cdn.discordapp.com/attachments/1277109598050062347/1277800710196695132/video0_3.mov?ex=66ce7c25&is=66cd2aa5&hm=4046ef298bb2109252c7c22473d8c661e3e5a3b819a2442ebd019f39a773dd32&", ephemeral=False)
+        await interaction.response.send_message("REMOVED FOR PRIVACY", ephemeral=False)
 
 class Info(commands.Cog):
     def __init__(self, bot):
