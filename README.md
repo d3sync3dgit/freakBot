@@ -1,4 +1,4 @@
-A multipurpose discord bot mainly focused towards private servers :dependabot:
+A multipurpose discord bot mainly focused towards private servers fully written in Python
 
 Including:
 * Moderate support for admin commands
